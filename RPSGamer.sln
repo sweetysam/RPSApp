@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPSGamer", "RPSGamer\RPSGamer.csproj", "{5D9816E3-6172-47BA-B7E4-BB0E30D4295A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPSTests", "UnitTestProject1\RPSTests.csproj", "{28E84361-023D-4650-925D-77E7A0B6528D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D9816E3-6172-47BA-B7E4-BB0E30D4295A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D9816E3-6172-47BA-B7E4-BB0E30D4295A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D9816E3-6172-47BA-B7E4-BB0E30D4295A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D9816E3-6172-47BA-B7E4-BB0E30D4295A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E84361-023D-4650-925D-77E7A0B6528D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E84361-023D-4650-925D-77E7A0B6528D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E84361-023D-4650-925D-77E7A0B6528D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E84361-023D-4650-925D-77E7A0B6528D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3313891B-731F-483A-85AF-8A3EE5C59B12}
+	EndGlobalSection
+EndGlobal
